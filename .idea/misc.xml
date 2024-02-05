@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/activity_check.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/activity_checkout.xml" value="0.2" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/activity_delivery.xml" value="0.19692307692307692" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/activity_update_user_info.xml" value="0.22" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/fragment_my_cart.xml" value="0.19692307692307692" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/fragment_my_mall.xml" value="0.2" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/fragment_update_password.xml" value="0.2" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/my_order_item_layout.xml" value="0.33" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/payment_method.xml" value="0.25" />
+        <entry key="..\:/Users/DESKTOP/AndroidStudioProjects/BFirst/app/src/main/res/layout/slider_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

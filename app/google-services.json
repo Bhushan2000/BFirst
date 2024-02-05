@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472297835563",
+    "firebase_url": "https://b-first.firebaseio.com",
+    "project_id": "b-first",
+    "storage_bucket": "b-first.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472297835563:android:afeed29fb2338234efae6e",
+        "android_client_info": {
+          "package_name": "com.example.bfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472297835563-2ns0vqclfjdn633on7vdjsv2dhtsv7ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTxTmlObu10CS1IyRWisMBCdBBHxu2NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472297835563-2ns0vqclfjdn633on7vdjsv2dhtsv7ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

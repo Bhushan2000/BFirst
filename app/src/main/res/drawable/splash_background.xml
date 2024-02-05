@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/red"/>
+        </shape>
+    </item>
+    <item>
+        <animated-rotate android:drawable="@drawable/logo11">
+
+        <bitmap android:src="@drawable/logo11"
+            android:gravity="center"
+             />
+        </animated-rotate>
+
+    </item>
+</layer-list>

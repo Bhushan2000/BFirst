@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EA0C26</color>
+    <color name="colorPrimaryDark">#DF3333</color>
+    <color name="colorAccent">#0707CC</color>
+
+
+
+
+    <color name="Transparent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF001E</color>
+    <color name="blue">#1165BF</color>
+    <color name="gray">#A9AAAC</color>
+    <color name="green">#08FF11</color>
+    <color name="darkGreen">#047509</color>
+    <color name="recyclerView_background">#BAB7B7</color>
+    <color name="couponColor">#3E0EBE</color>
+    <color name="couponRed">#FF3030</color>
+
+    <color name="yellow">#FF9800</color>
+
+
+
+    <color name="pg">#3006BA</color>
+
+</resources>
