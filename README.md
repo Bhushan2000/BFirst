@@ -55,7 +55,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/ecommerce-app.git
+    git clone https://github.com/Bhushan2000/BFirst.git
     ```
 
 2. **Open the project in Android Studio:**
