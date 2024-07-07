@@ -1,4 +1,4 @@
-# E-Commerce App
+# E-Commerce App(BFirst)
 
 Welcome to the E-Commerce App! This application is designed to provide a seamless and engaging shopping experience on Android devices.
 
@@ -31,12 +31,23 @@ The E-Commerce App is a full-featured mobile application for shopping enthusiast
 - Push Notifications for Offers and Updates
 
 ## Screenshots
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/e08a12eb-7afb-4b52-b0b7-3986421b4d37' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/76f723f3-7460-46e2-abf8-432a1aaac979' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/4e6ed9b5-2f21-4c6c-998f-530310e67065' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/7d9d0f06-4598-4b4a-a15b-65d243dbbb19' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/6a05133b-439e-4c95-aa3e-5c207f327b32' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/8b620263-c8f5-40cf-b344-a4adea083358' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/6d8a4854-e000-4fee-ba24-8ec82364f086' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/82af93d1-1aeb-4c18-a7ca-b15d85ab7872' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/9793986a-a164-4073-884a-4143a7a5a14f' height="400" width="200" />
+<img src="https://github.com/Bhushan2000/BFirst/assets/157300484/a8b88a0b-5b4d-49f8-b353-8d96dccb1f49" height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/88265b2c-fa5b-45ff-a0ae-64fe03e5f187' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/69524561-a5c2-40de-82a5-59f278509574' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/bee495ef-be75-45a3-9397-4eb7d524b6e8' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/b847f129-df23-48ef-be8a-6e78b1988dcc' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/c93e93dc-1f13-4871-a12b-04abf5a93280' height="400" width="200" />
+<img src='https://github.com/Bhushan2000/BFirst/assets/157300484/94058b5d-a35f-4b25-b224-4cc9d5f0d289' height="400" width="200" />
 
-![Home Screen](screenshots/home_screen.png)
-![Product List](screenshots/product_list.png)
-![Product Details](screenshots/product_details.png)
-![Cart](screenshots/cart.png)
-![Checkout](screenshots/checkout.png)
 
 ## Installation
 
@@ -77,13 +88,13 @@ To run this project on your local machine, follow these steps:
 
 ## Technologies Used
 
-- **Programming Language:** Kotlin
+- **Programming Language:** Java
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **Backend:** Firebase Firestore
 - **Authentication:** Firebase Authentication
-- **Payments:** Stripe API
+- **Payments:** Cash on Delivery or Paytm
 - **Push Notifications:** Firebase Cloud Messaging
-- **UI:** Jetpack Compose / XML Layouts
+- **UI:** XML Layouts
 
 ## Contributing
 
@@ -104,4 +115,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please contact us at:
 - Email: bfirst262@gmail.com
 - GitHub: [E-Commerce App Repository](https://github.com/Bhushan2000/BFirst)
-```
